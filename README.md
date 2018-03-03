@@ -2,7 +2,7 @@
 
 A **VueJS/SocketCluster** template for building multi-process real-time systems
 
-### Development Setup
+### How to run
 
 ``` bash
 # install dependencies
@@ -21,4 +21,5 @@ npm run build
 ### Links
 
 VueJS documentation - please go to [VueJS website](https://vuejs.org/guide/)
+
 SocketCluster documentation - please go to [SocketCluster website](https://socketcluster.io/#!/docs)
